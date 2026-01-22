@@ -11,7 +11,7 @@ Elle étend le mapping standard limité de l'UNO R4 pour offrir :
 ## Fonctionnalités principales
 - **Digital** : D0 à D40
 - **Analog** : A0 à A16, :
-  | Canal | Port Renesas |
+  | nom arduino | Pin Renesas |
   |-------|--------------|
   | A0    | P500        |
   | A1    | P501        |
