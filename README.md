@@ -7,6 +7,7 @@ Cette variante exploite **toutes** les broches disponibles sur la WeAct Studio R
 Elle étend le mapping standard limité de l'UNO R4 pour offrir :
 - 41 broches digitales utilisables
 - 17 canaux ADC (analogRead)
+- 28 pwm potentiel don 16 en même temps 
 
 ## Fonctionnalités principales
 - **Digital** : D0 à D40
@@ -41,7 +42,7 @@ Elle étend le mapping standard limité de l'UNO R4 pour offrir :
   | 5     |  D18  |  D19  |
   | 6     |  D16  |  D17  |
   | 7     |  D36  |  D35  |
- - **Pwm alternative**
+- **Pwm alternative**
   | chan  |   a   |   b   |
   |-------|-------|-------|
   | 1     |  D32  |  D31  |
