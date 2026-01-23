@@ -54,6 +54,7 @@ Elle étend le mapping standard limité de l'UNO R4 pour offrir :
   | 6     |  D13  |  D14  |
 
 **Attention !!!, vous pouvez activé les Pwm et ou Pwm alternative au choix MAIS ne pas activé les PWM et PWM alternative qui partage le même chan en même temp**
+
 vous avez 28 pin capable d'être pwm 
 mais certaines pin partage le même chan donc en pratique vous avez 16 pin (8 chan a et b) qui peuvent être activée en même temps. 
 et franchement 16 pwm ca fait 10 de plus qu une arduino uno r4 , c'est pas mal 🤯
