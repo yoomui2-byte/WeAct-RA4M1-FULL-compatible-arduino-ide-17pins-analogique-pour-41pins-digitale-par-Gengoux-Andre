@@ -68,7 +68,7 @@ et franchement 16 pwm ca fait 10 de plus qu une arduino uno r4 , c'est pas mal �
    `C:\Users\<VotreNom>\AppData\Local\Arduino15\packages\arduino\hardware\renesas_uno\<version>\variants\MINIMA`  
    (remplacez les fichiers existants).
 
-**Méthode recommandée (bientôt disponible)** : Créer un variant local dans votre sketchbook (`hardware/gengoux/renesas/...`) pour éviter l'écrasement lors des mises à jour du core arduino uno r4 minima.
+**Méthode recommandée qui sera indépendant et donc non écrasée par les mises à jour uno r4 (bientôt disponible)** : 
 
 ## Avertissement matériel important
 Pour utiliser **A6 (P012)** correctement en entrée analogique :  
